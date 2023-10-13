@@ -1,0 +1,65 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OpenGL:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OpenGL_jar</output-path>
+    <root id="archive" name="OpenGL.jar">
+      <element id="module-output" name="OpenGL" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-par.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-stb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-bgfx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-glfw.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/joml-1.10.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-assimp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nanovg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-openal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-opengl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-vulkan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nuklear.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/slick-util(1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-par-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-par-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-stb-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-stb-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-bgfx-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-bgfx-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-glfw-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-glfw-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/joml-1.10.5-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/joml-1.10.5-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-assimp-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-assimp-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nanovg-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nanovg-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-openal-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-openal-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-opengl-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-opengl-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-vulkan-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-vulkan-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nuklear-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nuklear-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-par-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-stb-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-bgfx-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-glfw-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-assimp-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nanovg-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-openal-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-opengl-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nuklear-natives-windows.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-par-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-stb-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-bgfx-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-glfw-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-assimp-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nanovg-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-openal-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-opengl-natives-windows-x86.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Programs and Frameworks/libs/lwjgl-nuklear-natives-windows-x86.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
